@@ -1,0 +1,12 @@
+/* Copyright 2021 UPM EDU MY. All rights reserved.
+ * Author:  Li Jinghong, Mali Yulong, Li Runkai, Liang Zhaofeng
+ * Matric Id: 209231, 209251, 208836, 208802
+*/
+
+
+/* for button 2 */
+.toggle-button {
+  -fx-background-image: url('http://temp.kl.my.qnfcp.xyz/2.jpg');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+}
